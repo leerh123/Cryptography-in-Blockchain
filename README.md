@@ -17,6 +17,16 @@
         4.RFC6962中merkle树的实现<br>
         5.比特币中ECDSA签名伪造<br>
       </td>
+    <tr>
+    <td>雷一晗</td>
+    <td>202000150235</td>
+    <td>drew7777777777</td>
+    <td>
+        1.SHA256长度扩展攻击<br>
+        2.SM3rho攻击<br>
+        3.RFC6962中merkle树的实现<br>
+        4.MPT研究报告
+      </td>
   </tr>
 </table>
 
