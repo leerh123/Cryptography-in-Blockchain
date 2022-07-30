@@ -29,6 +29,15 @@
         5.SM4实现及加速
       </td>
   </tr>
+  <tr>
+    <td>程泽锋</td>
+    <td>202000161265</td>
+    <td>Joker6662333</td>
+    <td>
+        1.SM2 PGP方案实现<br>
+
+      </td>
+  </tr>
 </table>
 
 # zk-snark
