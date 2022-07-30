@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 # @Time:2022/7/30 17:24
 # @Auther:程泽锋
-# @File :SM2_2P_enc.py
+# @File :SM2_2P_sig.py
 # @software:PyCharm
 
 '''
