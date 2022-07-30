@@ -1,5 +1,4 @@
-# 创新创业实践项目完成情况
-## 已完成
+# 创新创业实践项目
 <table>
   <tr>
     <td>姓名</td>
@@ -47,18 +46,24 @@
         1.写一个电路证明英语成绩大于425，证明你通过了考试，而不用告诉他们具体的分数<br>
 
   </tr>
+
+   <tr>
+    <td>未完成</td>
+    <td> </td>
+    <td> </td>
+    <td>
+        1.利用ECDSA在以太坊中应用此演绎技术的报告<br>
+        2.impl sm2与RFC6979<br>
+        3.用概念验证代码验证上述缺陷<br>
+        4.实施上述ECMH计划<br>
+        5.实现sm2 2P标志与实网通信<br>
+        6.方案的PoC实施，或通过谷歌进行实现分析<br>
+        7.实现真实网络通信的sm2 2P解密<br>
+        8.发送一个tx在比特币测试网，并解析tx数据到每一位，更好地写脚本自己<br>
+        9.在由你的名字和你的学生ID组成的消息下，找到一个散列值为“sdu_cst_20220610”的键。<br>
+        10.找到某个k下的64字节消息，满足其哈希值是对称的
+
+    </td>
+
+  </tr>
 </table>
-
-## 未完成
-- Project: report on the application of this deduce technique in Ethereum with  ECDSA
-- Project: impl sm2 with RFC6979
-- Project: verify the above pitfalls with proof-of-concept code
-- Project: Implement the above ECMH scheme
-- Project: implement sm2 2P sign with real network communication
-- Project: PoC impl of the scheme, or do implement analysis by Google
-- Project: implement sm2 2P decrypt with real network communication
-- Project: send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself
-- Project: Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. For example, “San Zhan 202000460001”.
-
-- Project: Find a 64-byte message under some  fulfilling that their hash value is symmetrical
-
