@@ -1,4 +1,4 @@
-# SM3
+# 创新创业实践项目
 <table>
   <tr>
     <td>姓名</td>
@@ -38,17 +38,7 @@
 
     
   </tr>
-</table>
-
-# zk-snark
-<table>
-  <tr>
-    <td>姓名</td>
-    <td>学号</td>
-    <td>昵称</td>
-    <td>完成的项目</td>
-  </tr>
-  <tr>
+   <tr>
     <td>吕子昂</td>
     <td>202000161263</td>
     <td>lzaPro</td>
