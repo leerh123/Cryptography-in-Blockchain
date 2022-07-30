@@ -1,4 +1,5 @@
-# 创新创业实践项目
+# 创新创业实践项目完成情况
+## 已完成
 <table>
   <tr>
     <td>姓名</td>
@@ -47,3 +48,17 @@
 
   </tr>
 </table>
+
+## 未完成
+- Project: report on the application of this deduce technique in Ethereum with  ECDSA
+- Project: impl sm2 with RFC6979
+- Project: verify the above pitfalls with proof-of-concept code
+- Project: Implement the above ECMH scheme
+- Project: implement sm2 2P sign with real network communication
+- Project: PoC impl of the scheme, or do implement analysis by Google
+- Project: implement sm2 2P decrypt with real network communication
+- Project: send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself
+- Project: Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. For example, “San Zhan 202000460001”.
+
+- Project: Find a 64-byte message under some  fulfilling that their hash value is symmetrical
+
